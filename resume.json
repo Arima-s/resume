@@ -72,7 +72,7 @@
     "name": "前端开发",
     "description": [
       "主站的维护与重构, 新功能模块的设计开发",
-      "`指定教练预约`、`酒店`、`HIGHSNOW`、`全球试滑师` 功能模块的设计与开发 ( 微信公众号: `滑雪族` )",
+      "`指定教练预约`、`酒店预订`、`HIGHSNOW三人接力赛`、`全球试滑师` 等主要功能模块的产品设计与开发 ( 微信公众号: `滑雪族` )",
       "不过度依赖框架，解决`移动web`兼容性问题",
       "项目中使用 `suiMoible`、`underscore`、`fis` "
     ],
@@ -82,13 +82,13 @@
     "type": "internship",
     "techtype": "frontend",
     "place": "雪族科技（实习）",
-    "start": "2016.02",
+    "start": "2015.10",
     "end": "2016.07",
     "name": "前端开发",
     "description": [
       "主站的开发, 微信公众号的二次开发",
       "编写 `高复用性` 的html、css代码",
-      "项目中使用 `jQuery`、`require`"
+      "项目中使用 `jQuery`、`require`、`Zepto`"
     ],
     "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
     "compatibility": "IE8+"
