@@ -37,23 +37,23 @@
     "certificate": [{
       "type": "HTML",
       "full": "710",
-      "score": "580"
+      "score": "600"
     },{
       "type": "CSS",
       "full": "710",
-      "score": "570"
+      "score": "600"
     },{
       "type": "JS",
       "full": "710",
-      "score": "550"
+      "score": "570"
     },{
       "type": "Zepto",
       "full": "710",
-      "score": "600"
+      "score": "580"
     },{
       "type": "Vue",
       "full": "710",
-      "score": "320"
+      "score": "510"
     }]
   }],
   "education": [{
@@ -74,9 +74,9 @@
       "主站的维护与重构, 新功能模块的设计开发",
       "`指定教练预约`、`酒店预订`、`HIGHSNOW三人接力赛`、`全球试滑师` 等主要功能模块的产品设计与开发 ( 微信公众号: `滑雪族` )",
       "不过度依赖框架，解决`移动web`兼容性问题",
-      "项目中使用 `suiMoible`、`underscore`、`fis` "
+      "项目中使用 `vue`、`vue-cli`、`webpack`、`element-ui`、`scss`、`suiMoible`、`fis`"
     ],
-    "stack": ["suimoible", "bootstrap", "zepto", "fis", "less"],
+    "stack": ["vue", "webpack", "element-ui", "suiMoible", "underscore", "scss", "suiMoible", "underscore", "fis"],
     "compatibility": "IE8+"
   }, {
     "type": "internship",
@@ -88,7 +88,7 @@
     "description": [
       "主站的开发, 微信公众号的二次开发",
       "编写 `高复用性` 的html、css代码",
-      "项目中使用 `jQuery`、`require`、`Zepto`"
+      "项目中使用 `jQuery`、`require`、`less`、`underscore`"
     ],
     "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
     "compatibility": "IE8+"
@@ -143,15 +143,14 @@
       "summary": "`ECMAScript`（`JavaScript`）",
       "description": [
         "熟悉 `ECMAScript`（`JavaScript`）",
-        "熟悉 `ECMAScript6` 新标准"
+        "熟悉 `ECMAScript-2015` 新标准"
       ]
     },{
       "summary": "前端工程实践",
       "description": [
-        "使用  `AngularJS`  编写过简单的表单验证",
-        "使用  `VueJS`  仿写饿了么组件", 
-        "熟悉 `jQuery` / `Bootstrap` / `Zepto` 的使用、定制与扩展, 阅读过部分源代码",
-        "在项目中使用过 `webpack`/ `vue`/ `angular`/ `freemarker` / ` underscore` / `msui` / `zepto`/  等",
+        "使用 `VueJS` 编写移动端书城demo, 使用 `vue-cli` 搭建项目", 
+        "熟悉 `Bootstrap` / `Zepto` /  `jQuery` 的使用、定制与扩展, 阅读过部分源代码",
+        "在项目中使用过 `webpack`/ `vue`/ `vue-cli`/ `element-ui`/ `freemarker`/ `scss`/ `lodash`/ `suiMoible`/ `fis` 等",
         "在项目中使用过 `Less` / `Sass`  等预处理工具",
         "日常使用 `Fis` 或 `Gulp` 改进工作流",
         "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
@@ -176,13 +175,13 @@
       "日常使用 `Google` 解决工作中遇到的技术问题",
       "日常使用 `Git` 与 `Sublime Text` 进行开发，也乐于尝试新工具",
       "日常使用 `Sourcetree`、`Teambition`与同事进行分工协作 ",
-      "经常阅读技术博客，喜欢阮老师的文章",
-      "代码洁癖，不能忍受代码格式偏差，轻度强迫症，力求界面100%还原",
+      "经常阅读技术博客，喜欢阮一峰老师的文章",
+      "代码洁癖，注释简介明了，不能忍受代码格式偏差，轻度强迫症，力求界面100%还原",
       "责任心强，时间观念强，能够承受一定的工作压力",
       "充满活力、对前端由衷热爱，具有强烈的进取心",
       "具有良好的沟通能力和团队合作精神",
       "心仪职位： `前端工程师` ",
-      "Phone: `18363825886` "
+      "tel: `18363825886` "
     ]
   }]
 }
