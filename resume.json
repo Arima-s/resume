@@ -82,25 +82,12 @@
     "name": "前端开发",
     "description": [
       "主站的开发, 微信公众号的开发 ( 线上微信公众号: `滑雪族` ) ",
-      "编写 `高复用性` 的html、css代码",
+      "编写 `代码结构清晰`、`高复用性` 的html、css代码",
       "项目中使用 `jQuery`、`require`、`less`、`underscore`、 `fis`"
     ],
     "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
     "compatibility": "IE8+"
-  }, {
-    "type": "project",
-    "techtype": "frontend",
-    "project_type": "personal",
-    "name": "E万家商城首页",
-    "source": "https://github.com/VersaceAndy",
-    "demo": "http://monkeyd.net/ewj",
-    "description": [
-      "项目中使用 `Less` 预处理器，编写模块化的 `CSS` ",
-      "代码结构清晰、 html 结构 可读性高"
-    ],
-    "stack": ["PHP", "less", "mysql"],
-    "compatibility": "IE9+"
-  }, {
+  },{
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
