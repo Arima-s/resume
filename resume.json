@@ -67,10 +67,9 @@
     "end": "至今",
     "name": "前端开发",
     "description": [
-      "主站的维护与重构, 新功能模块的设计开发",
-      "`指定教练预约`、`酒店预订`、`HIGHSNOW三人接力赛`、`全球试滑师` 等主要功能模块的产品设计与开发 ( 微信公众号: `滑雪族` )",
+      "主站的维护与重构, `指定教练预约`、`酒店预订`、`HIGHSNOW三人接力赛`、`全球试滑师` 等主要功能模块的产品设计与开发",
       "不过度依赖框架，解决`移动web`兼容性问题",
-      "项目中使用 `vue`、`vue-cli`、`webpack`、`element-ui`、`scss`、`suiMoible`、`fis`"
+      "项目中使用 `vue`、`vue-cli`、`vue-router`、`axios`、`vuex`、`webpack`、`element-ui`、`scss`、`suiMoible`、`fis`"
     ],
     "stack": ["vue", "webpack", "element-ui", "suiMoible", "underscore", "scss", "suiMoible", "underscore", "fis"],
     "compatibility": "IE8+"
@@ -82,9 +81,9 @@
     "end": "2016.07",
     "name": "前端开发",
     "description": [
-      "主站的开发, 微信公众号的二次开发",
+      "主站的开发, 微信公众号的开发 ( 线上微信公众号: `滑雪族` ) ",
       "编写 `高复用性` 的html、css代码",
-      "项目中使用 `jQuery`、`require`、`less`、`underscore`"
+      "项目中使用 `jQuery`、`require`、`less`、`underscore`、 `fis`"
     ],
     "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
     "compatibility": "IE8+"
@@ -169,15 +168,16 @@
     "type": "miscellaneous",
     "item": [
       "日常使用 `Google` 解决工作中遇到的技术问题",
-      "日常使用 `Git` 与 `Sublime Text` 进行开发，也乐于尝试新工具",
-      "日常使用 `Sourcetree`、`Teambition`与同事进行分工协作 ",
-      "经常阅读技术博客，喜欢阮一峰老师的文章",
+      "日常使用 `Sourcetree` 与 `Sublime Text` 进行开发，也乐于尝试新工具",
+      "经常阅读技术博客，喜欢阮一峰老师、张鑫旭老师的文章",
       "代码洁癖，注释简介明了，不能忍受代码格式偏差，轻度强迫症，力求界面100%还原",
       "责任心强，时间观念强，能够承受一定的工作压力",
       "充满活力、对前端由衷热爱，具有强烈的进取心",
       "具有良好的沟通能力和团队合作精神",
       "心仪职位： `前端工程师` ",
-      "tel: `18363825886` "
+      "tel: `18363825886` ",
+      "",
+      "`注：真实工作经验，非培训班伪造简历。`"
     ]
   }]
 }
