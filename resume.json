@@ -68,8 +68,8 @@
     "name": "前端开发",
     "description": [
       "主站的维护与重构, `指定教练预约`、`酒店预订`、`HIGHSNOW三人接力赛`、`全球试滑师` 等主要功能模块的产品设计与开发",
-      "不过度依赖框架，解决`移动web`兼容性问题",
-      "项目中使用 `vue`、`vue-cli`、`vue-router`、`axios`、`vuex`、`webpack`、`element-ui`、`scss`、`suiMoible`、`fis`"
+      "不过度依赖框架, 解决`移动web`兼容性问题",
+      "项目中使用 `vue`、`vue-cli`、`vue-router`、`axios`、`vuex`、`webpack`、`element-ui`、`scss`、`suiMoible`、`fis`, 前后端分离开发"
     ],
     "stack": ["vue", "webpack", "element-ui", "suiMoible", "underscore", "scss", "suiMoible", "underscore", "fis"],
     "compatibility": "IE8+"
